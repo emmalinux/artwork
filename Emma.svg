@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Emma.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69219276"
+     inkscape:cx="396.56583"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="174.8068"
+       y="338.05612"
+       width="444.96276"
+       height="433.40528"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#103778;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="105.16371"
+       cy="145.40411"
+       r="100.54108"
+       inkscape:export-filename="path1.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#103778;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-7"
+       cx="105.77032"
+       cy="146.48811"
+       r="85.371758" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="font-size:200px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;fill-opacity:1;stroke:#103778;stroke-width:5;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.899px;line-height:0;font-family:Gabriola;-inkscape-font-specification:Gabriola;fill:#103778;fill-opacity:0.980392;stroke:#103778;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="45.782734"
+       y="229.49149"
+       id="text3"
+       transform="scale(1.0718316,0.93298238)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.899px;line-height:0;font-family:Gabriola;-inkscape-font-specification:Gabriola;fill:#103778;fill-opacity:0.980392;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
+         x="45.782734"
+         y="229.49149">E</tspan></text>
+  </g>
+</svg>
